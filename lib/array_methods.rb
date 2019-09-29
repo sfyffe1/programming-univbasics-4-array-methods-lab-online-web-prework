@@ -1,6 +1,6 @@
 def using_include(array, element)
-  array.include? = "wow"
-  array.include? = "Tardis"
+  using_include.include? = "wow"
+  usind_include.include? = "Tardis"
 end
 
 def using_sort(array)
